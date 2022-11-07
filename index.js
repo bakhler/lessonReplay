@@ -1,1 +1,6 @@
-alert(777)
+console.log(777)
+console.log("7.77")
+console.log(false)
+console.log(null)
+console.log(undefined)
+console.log(300-200)
